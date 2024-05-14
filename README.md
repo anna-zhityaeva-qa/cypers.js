@@ -1,2 +1,2 @@
 # cypers.js
-Автотесты на клиентскую часть на Cyperss JavaScript
+***Автотесты на клиентскую часть на Cyperss JavaScript***
